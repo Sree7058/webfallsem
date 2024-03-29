@@ -1,0 +1,143 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+nav
+{
+   position: fixed;
+   background-color: blue;
+   height: 70px;
+   width: 100%;
+   z-index: 1;
+}
+
+
+.logo
+{
+    font-size: 30px;
+    position: relative;
+    left: 5%;
+    color: black;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+ul
+{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+}
+
+ul li
+{
+    display: inline-block;
+    line-height: 70px;
+    margin: 0 5px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 12;
+}
+
+.main_img
+{
+    width: 100%;
+    height: 300px;
+}
+
+.teacher
+{
+  width: 90%;
+  height: 200px;
+}
+
+.section1
+{
+    padding-top: 70px;
+}
+
+.welcome_img
+{
+    width: 100%;
+    height: 250px;
+}
+
+.container
+{
+   padding-top: 70px;
+}
+
+.label_text
+{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.input_deg
+{
+    width: 30%;
+    height: 40px;
+    border-radius: 25px;
+    border: 1px solid blue;
+}
+
+.footer_text
+ {
+    background-color: #0073e6;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.form_deg
+{
+    padding-top: 200px;
+
+}
+
+.label_deg
+{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.adm_int
+{
+    padding-top: 10px;
+}
+
+.input_txt
+{
+    width: 30%;
+    height: 120px;
+    border-radius: 25px;
+    border: 1 px solid blue;
+}
+
+#submit
+{
+    position: relative;
+    width: 15%;
+    left: 5%;
+}
+
+.login_form
+{
+    background-color: navy;
+    width: 400px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+

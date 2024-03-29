@@ -1,0 +1,61 @@
+*
+{
+   margin: 0px; 
+   padding: 0px;
+}
+
+.header
+{
+    font-size: 16px;
+    background-color: rgb(115, 146, 170);
+    line-height: 70px;
+    padding-left: 30px;
+}
+
+a,a:hover
+{
+text-decoration: none !important;
+font-style: bold !important;
+}
+
+.logout
+{
+    float: right;
+    padding-right: 30px;
+}
+
+ul
+{
+    background-color: rgb(90, 108, 141);
+    width: 15%;
+    height: 100%;
+    position: fixed;
+    padding-top: 5%;
+    text-align: center;
+}
+
+ul li
+{
+    list-style: none;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+
+ul li a
+{
+    color: white;
+    font-weight: bold;
+}
+
+ul li a:hover
+{
+    color: rgb(23, 118, 118);
+    text-decoration: none;
+}
+
+.content
+{
+   margin-left: 20%;
+  
+    
+} 
